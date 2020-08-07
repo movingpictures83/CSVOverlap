@@ -1,0 +1,2 @@
+Prefix plugins/CSVOverlap/example/
+Plugin CSVOverlap inputfile parameters.txt outputfile overlaps.csv
